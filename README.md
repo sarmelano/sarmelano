@@ -24,7 +24,7 @@
 
 - :telescope: I am involved in frontend development for building <strong>user-friendly</strong>, <strong>simple</strong> and <strong>accessible</strong> web applications.
 
-- :seedling: I’m currently learning <strong>React</strong> and exploring Technical Content Writing.
+- :seedling: I'm constantly learning new things and exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
